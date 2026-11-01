@@ -1,8 +1,8 @@
 # Wide World Importers: revenue, customers and churn risk
 
-**Tools:** T-SQL · Microsoft SQL Server
-**Database:** [WideWorldImporters](https://learn.microsoft.com/en-us/sql/samples/wide-world-importers-what-is), Microsoft's sample database for a wholesale company (sales, purchasing, warehouse and application schemas)
-**File:** [`WideWorldImporters_Analysis.sql`](WideWorldImporters_Analysis.sql)
+- **Tools:** T-SQL · Microsoft SQL Server
+- **Database:** [WideWorldImporters](https://learn.microsoft.com/en-us/sql/samples/wide-world-importers-what-is), Microsoft's sample database for a wholesale company (sales, purchasing, warehouse and application schemas)
+- **File:** [`WideWorldImporters_Analysis.sql`](WideWorldImporters_Analysis.sql)
 
 ## Business question
 How is the business growing, who are the customers that matter most, and where is the risk?

@@ -1,8 +1,8 @@
 # What drives home prices in King County?
 
-**Tools:** Python · pandas · matplotlib · seaborn · Jupyter
-**Data:** 4,600 home sales in King County, Washington (USA), May 2 – July 10, 2014, 18 columns
-**Notebook:** [`Washington_House_Sales.ipynb`](Washington_House_Sales.ipynb)
+- **Tools:** Python · pandas · matplotlib · seaborn · Jupyter
+- **Data:** 4,600 home sales in King County, Washington (USA), May 2 – July 10, 2014, 18 columns
+- **Notebook:** [`Washington_House_Sales.ipynb`](Washington_House_Sales.ipynb)
 
 ## Research question
 Which physical and location features are most strongly related to home prices in King County?

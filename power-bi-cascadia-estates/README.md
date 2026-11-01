@@ -1,9 +1,9 @@
 # Cascadia Estates: King County housing market report
 
-**Tools:** Power BI Desktop · Power Query · DAX
-**Data:** about 4,600 home sales in King County, Washington, May–July 2014
-**Audience:** the owner of Cascadia Estates, a real-estate brokerage
-**File:** [`Cascadia_Estates.pbix`](Cascadia_Estates.pbix) (download and open in Power BI Desktop)
+- **Tools:** Power BI Desktop · Power Query · DAX
+- **Data:** about 4,600 home sales in King County, Washington, May–July 2014
+- **Audience:** the owner of Cascadia Estates, a real-estate brokerage
+- **File:** [`Cascadia_Estates.pbix`](Cascadia_Estates.pbix) (download and open in Power BI Desktop)
 
 ## Business question
 Where, when and what kind of homes sell in King County, and which deals fall outside the normal price range?
